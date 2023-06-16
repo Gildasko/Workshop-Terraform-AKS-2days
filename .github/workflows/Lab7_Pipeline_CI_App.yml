@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env: # variables 
-  REGISTRY_NAME: "acrgil"
+  REGISTRY_NAME: "acrgil2022"
   APP_NAME: "coolapi"
   IMAGE_VERSION: "1.0.0"
 
